@@ -1,0 +1,11 @@
+[2026-08-09 22:17:04] Email received: I want to know about admission details
+[2026-08-09 22:17:04] AI Reply:
+Subject: Response to Your Inquiry
+
+Dear Student,
+
+Thank you for contacting us regarding college admissions. Please visit our official website for full details.
+
+Best regards,
+Admissions Team
+-----------------------------------------------------
